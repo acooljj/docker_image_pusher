@@ -4,7 +4,10 @@
 #quay.io/argoproj/argocd:v2.12.7
 #ghcr.io/dexidp/dex:v2.38.0
 #redis:7.0.15-alpine
-grafana/grafana:latest
+#grafana/grafana:latest
+kubesphere/nginx-ingress-controller:v1.4.0
+kubesphere/gateway-apiserver:v1.0.2
+kubesphere/gateway-controller-manager:v1.0.2
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
