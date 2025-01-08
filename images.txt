@@ -8,11 +8,12 @@
 #kubesphere/nginx-ingress-controller:v1.4.0
 #kubesphere/gateway-apiserver:v1.0.2
 #kubesphere/gateway-controller-manager:v1.0.2
-jimmidyson/configmap-reload:v0.8.0
-prom/prometheus:v2.41.0
-docker.io/grafana/grafana:9.5.5
-openzipkin/zipkin-slim:2.23.14
-quay.io/kiali/kiali:v1.76
+#jimmidyson/configmap-reload:v0.8.0
+#prom/prometheus:v2.41.0
+#docker.io/grafana/grafana:9.5.5
+#openzipkin/zipkin-slim:2.23.14
+#quay.io/kiali/kiali:v1.76
+apache/skywalking-ui:9.1.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
