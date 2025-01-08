@@ -13,7 +13,8 @@
 #docker.io/grafana/grafana:9.5.5
 #openzipkin/zipkin-slim:2.23.14
 #quay.io/kiali/kiali:v1.76
-apache/skywalking-ui:9.1.0
+#apache/skywalking-ui:9.1.0
+apache/skywalking-oap-server:9.1.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
