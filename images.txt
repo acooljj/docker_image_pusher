@@ -16,8 +16,9 @@
 #quay.io/kiali/kiali:v1.76
 #apache/skywalking-ui:9.1.0
 #apache/skywalking-oap-server:9.1.0
-648540858/wvp_pro
+#648540858/wvp_pro
+nfs-subdir-external-provisioner:v4.0.2
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#--platform=linux/arm64
+--platform=linux/arm64
