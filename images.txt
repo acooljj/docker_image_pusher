@@ -20,10 +20,10 @@
 #nfs-subdir-external-provisioner:v4.0.2
 #nacos/nacos-server:v2.3.0
 #rabbitmq:3.9.11-management
-kafka:3.6.0
-zookeeper:3.8
-#redis:7.2.4
-#mysql:8.0.35
+#kafka:3.6.0
+#zookeeper:3.8
+redis:7.2.4
+mysql:8.0.35
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
