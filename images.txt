@@ -22,8 +22,9 @@
 #rabbitmq:3.9.11-management
 #kafka:3.6.0
 #zookeeper:3.8
-redis:7.2.4
-mysql:8.0.35
+#redis:7.2.4
+#mysql:8.0.35
+apache/kafka:3.6.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
